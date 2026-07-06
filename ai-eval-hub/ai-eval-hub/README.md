@@ -2,8 +2,6 @@
 
 > Type your prompt **once** → open ChatGPT, Claude, Gemini, Copilot & Meta AI with one click → paste and collect responses → score them side by side → get ranked results with charts → export CSV.
 
-**Live demo:** `https://YOUR_USERNAME.github.io/ai-eval-hub/`
-
 ---
 
 ## 🎯 The Problem This Solves
